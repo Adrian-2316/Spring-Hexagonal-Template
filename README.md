@@ -1,2 +1,5 @@
 # Spring-Hexagonal-Template
-Spring hexagonal structure template
+
+Spring hexagonal structure template for personal projects.
+
+
